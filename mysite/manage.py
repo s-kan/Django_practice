@@ -3,7 +3,6 @@
 import os
 import sys
 
-#Hi, Jiseok
 
 def main():
     """Run administrative tasks."""
